@@ -34,7 +34,7 @@ router.route('/').post(async (req, res) => {
         const newPost = await Post.create({
             name, 
             prompt,
-            photoUrl: photoUrl.url,
+            photo: photoUrl.url,
         })
         res.status(201).json({ success: true, data: newPost }); 
     } catch (error) {
