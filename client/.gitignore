@@ -10,7 +10,7 @@ src
 
 node_modules
 # dist
-k-ssr
+dist-ssr
 *.local
 
 # Editor directories and files
