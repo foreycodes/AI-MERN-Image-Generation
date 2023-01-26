@@ -18,13 +18,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/foreycodes/AI-MERN-Image-Generation">
-    <img src="https://i.imgur.com/vgpIYGJ.png" alt="Logo" width="80" height="80">
+    <img src="https://www.pngmart.com/files/21/AI-PNG-Isolated-HD.png" alt="Logo" width="400" height="250">
   </a>
 
 <h3 align="center"></h3>
 
   <p align="center">
-    Full Stack MERN AI Image Generation App
+    Full Stack MERN OpenAI API Image Generation App
     <br />
   </p>
 </div>
@@ -78,7 +78,7 @@ View the project 🎉
 
 <!-- USAGE EXAMPLES -->
 ## Practiced Concepts
-- [x] AI API integration
+- [x] OpenAi's DALL-E API integration
 - [x] CSS frameworks
 - [x] MERN stack applications
 - [x] Image hosting and storage
