@@ -87,7 +87,7 @@ const Home = () => {
           <>
             {searchText && (
               <h2 className="font-medium text-[#666e75] text-xl mb-3">
-                Showing Resuls for <span className="text-[#222328]">{searchText}</span>:
+                Showing Resuls for <span className="text-[#22232-]">{searchText}</span>:
               </h2>
             )}
             <div className="grid lg:grid-cols-4 sm:grid-cols-3 xs:grid-cols-2 grid-cols-1 gap-3">
